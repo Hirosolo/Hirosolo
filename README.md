@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi Im Tai
 
-<!--
-**Hirosolo/Hirosolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Backend & Full-Stack**
 
-Here are some ideas to get you started:
+I build **production-ready systems** with a strong focus on **backend logic, API design, and data consistency**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Languages:** TypeScript, JavaScript, C#
+- **Backend:** Node.js, RESTful APIs, authentication, authorization
+- **Frontend:** React
+- **Databases:** PostgreSQL, Supabase
+- **Tools:** Git, Postman, Docker (basic)
+- **Core Strengths:** System design, database modeling, clean architecture, business logic
+
+### What I Deliver
+- Scalable backend APIs with clear contracts  
+- Reliable data models and transaction-safe workflows  
+- Clean, maintainable code aligned with real business requirements  
+
+### Selected Projects
+- **Restaurant Management System** – End-to-end backend: orders, payments, status workflows, role-based access  
+- **KemistryCraft** – Game mechanics and structured logic implementation  
+- **TrainDiary** – Data-driven productivity application  
+
+### Currently Focused On
+- Backend scalability & performance  
+- Designing systems that are easy to extend and maintain  
+
+📫 **Contact:** GitHub profile / Issues
